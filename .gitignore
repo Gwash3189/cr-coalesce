@@ -1,0 +1,16 @@
+# Crystal
+/lib/
+/bin/
+/.shards/
+/coverage/
+*.dwarf
+
+# macOS
+.DS_Store
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

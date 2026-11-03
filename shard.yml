@@ -1,0 +1,15 @@
+name: cr-coalesce
+version: 0.1.0
+
+authors:
+  - Adam Beck <adamb3189@gmail.com>
+
+crystal: ">= 1.21.0"
+
+license: MIT
+
+description: |
+  A lightweight, zero-dependency Crystal singleflight and request coalescing shard with
+  optional TTL caching, fluent builder, and declarative macro-wrapped instance methods.
+
+repository: https://github.com/Gwash3189/cr-coalesce
